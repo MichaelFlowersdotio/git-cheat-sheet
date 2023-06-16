@@ -123,4 +123,32 @@ git add --all
 git add .
 ```
 
+11. #### Committing our Files
+- moving from staging to commit
+- Adding commits keeps track of our process and changes
+-Git considers each commit as a snapshot of our project at the time 
+of the commit.  We can use these snapshots to revert to earlier versions.
+
+```bash
+# The commit command performs a commit and the -m "message" adds a message.
+
+git commit -m "your message"
+```
+
+12. #### Commit Log
+
+```bash
+
+git log
+```
+
+13. #### Git Help
+
+```bash
+
+git help --all
+
+# allows us to see all the possible git commands
+```
+
 

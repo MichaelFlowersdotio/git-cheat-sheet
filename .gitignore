@@ -1,0 +1,25 @@
+#IDE
+.idea/
+.vscode/
+prepros.config
+
+# Node and Packages
+node_modules/
+packages/
+
+#Build Directories
+bin/
+out/
+target/
+
+# Variables
+.env
+
+# Runtime Files
+.log
+.lock
+.tmp
+
+# OS Files
+Thmbs.db
+.DS_Store
