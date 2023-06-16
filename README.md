@@ -9,6 +9,7 @@ processes you will use.
 - [What is Git](#what-is-git)
 - [What does Git do](#what-does-git-do)
 - [Getting Started with Git](#getting-started)
+- [Working with Github](#working-with-github)
 
 ## What is Git
 
@@ -150,5 +151,11 @@ git help --all
 
 # allows us to see all the possible git commands
 ```
+### 15.  Working with Github
+
+1. Create | Log into Github
+2. Create an empty repo onGithub
+3. Push our local repo to Github
+
 
 
